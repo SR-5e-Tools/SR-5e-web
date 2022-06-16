@@ -1,0 +1,20 @@
+{
+  "name": "SR-5e-web",
+  "author": "SR-5e-Tools",
+  "version": "0.1.0",
+  "description": "A site dedicated to assist the games of Shadowrun 5th edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SR-5e-Tools/SR-5e-web.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SR-5e-Tools/SR-5e-web/issues"
+  },
+  "homepage": "https://github.com/SR-5e-Tools/SR-5e-web#readme",
+  "dependencies": {}
+}
