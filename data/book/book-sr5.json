@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "type": "section",
+      "entries": [
+        {
+          "type": "image",
+          "href": {
+            "type": "internal",
+            "path": "covers/SR5.webp"
+          },
+          "maxRes": {
+            "type": "internal",
+            "path": "covers/CRB-100.webp"
+          },
+          "style": "cover"
+        },
+        {
+          "type": "hr"
+        },
+        {
+          "type": "pf2-h1-flavor",
+          "page": 6,
+          "entries": [
+            "{@i There are cracks in the world. They're slender, dark, and often cold, but they are the only things that keep you hidden. Keep you alive. They are the shadows of the world, and they are where you live.",
+            "{@i You are a shadowrunner, thriving in the margins, doing the jobs no one else can. You have no office, no permanent home, no background to check. You are whatever you make yourself. Will you seek justice? Sow seeds of chaos? Sell out to the highest bidder? It’s up to you, but this much is certain—if you do nothing, the streets will eat you alive.",
+            "{@i You can survive—even flourish—as long as you do what it takes. Sacrifice part of your soul for bleeding-edge gear. Push the limits of your will learning new and dangerous magic. Wire yourself into the Matrix, making your mind one with screaming streams of data. It’ll cost you something—everything does—but you can make it worth the price.",
+            "{@i SHADOWRUN, FIFTH EDITION is the newest version of one of the most popular and successful role-playing worlds of all time—a fusion of man, magic and machine in a dystopian near-future. With rules for character creation, magic, combat, Matrix hacking, rigging, and more, you have everything you need to face the challenges of the Sixth World.}"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "page": 7,
+      "name": "Introduction: Future Dystopia",
+      "entries": [
+        "Welcome to Shadowrun, Fifth Edition. Welcome to the streets. If you're here, it's because you think you have what it takes to be a shadowrunner. And if you got it, we definitely want to help you use it. What you have to understand, though, is that not everyone's got it. So we're going to throw a quick screening interview at you, just to make sure you're ready to hit the shadows. Answer fast—no one's got time to sit around these days.",
+        "Do you have imagination? And your own weapon? If you're in a dark alley and the earth buckles under your feet, and some being materializes from the ground and prepares to attack, are you ready to make that thing—whatever it is—hurt?",
+        "If the situation suddenly changes in the middle of a mission, and you're swarmed by security guards who weren't supposed to be there, and you've got bullets, drones, and magic lightning streaming down on you, can you keep your shit together?",
+        "Will you trade your flesh and blood for steel and chrome?",
+        "Will you risk blowing out your mind to seize a piece of the magic power flowing through everything? Will you put your whole self into the Matrix so you can be faster than the next guy, even if it means you might have your brain seared by biofeedback? Will you pay what it costs to be the best?",
+        {
+          "type": "pf2-h2",
+          "page": 14,
+          "name": "Shadow slang",
+          "entries": [
+            "When you hit the streets, sling the lingo like a pro with this handy guide",
+            "{@b breeder:} n. Ork slang for a 'normal' human.",
+            "{@b buzz:} v. Go away. Buzz off.",
+            "{@b etc:} etc"
+          ]
+        }
+      ]
+    }
+  ]
+}
