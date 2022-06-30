@@ -1,0 +1,422 @@
+{
+  "book": [
+    {
+      "name": "Core Rulebook",
+      "id": "SR5",
+      "source": "SR5",
+      "group": "core",
+      "coverUrl": "img/covers/SR5.webp",
+      "published": "2013-07-12",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction: Future Dystopia"
+        },
+        {
+          "name": "Life in the Sixth World",
+          "headers": [
+            "Everything has a price",
+            "Where to run",
+            "A day in your life",
+            "What you might be doing the opposition"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 1
+          }
+        },
+        {
+          "name": "Shadowrun Concepts",
+          "headers": [
+            "The Game & You",
+            "How to make things hapen",
+            "Your Character",
+            "Edge"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 2
+          }
+        },
+        {
+          "name": "Creating a Shadowrunner",
+          "headers": [
+            "Step One: Choose Concept",
+            "Step Two: Choose Metatype",
+            "Step Three: Choose Magic or Resonance",
+            "Step Four: Purchase Qualities",
+            "Step Five: Purchase Skills",
+            "Step Six: Spend your Resources",
+            "Step Seven: Spending your leftover Karma",
+            "Step Eight: Final calculations",
+            "Step Nine: Final touches",
+            "Character advancement",
+            "Character archetypes"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 3
+          }
+        },
+        {
+          "name": "Skills",
+          "headers": [
+            "Skill types",
+            "Skill Groups",
+            "Skill Ratings",
+            "Combat Active Skills",
+            "Physical Active Skills",
+            "Social Skills",
+            "Magical Skills",
+            "Resonance Skills",
+            "Technical Skills",
+            "Vehicle Skills",
+            "Devising new active skills",
+            "Knowledge Skills",
+            "Language Skills",
+            "Using attributes"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 4
+          }
+        },
+        {
+          "name": "Combat",
+          "headers": [
+            "The basics",
+            "Ranged combat",
+            "Firearms",
+            "Projectiles",
+            "Bows",
+            "Melee Combat",
+            "Defending in combat",
+            "Special actions",
+            "Barriers",
+            "Vehicles",
+            "Vehicle combat",
+            "Healing"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 5
+          }
+        },
+        {
+          "name": "The Matrix",
+          "headers": [
+            "Wireless World",
+            "(Mis)Using the Matrix",
+            "Cracking the Matrix spine",
+            "Programs",
+            "Hosts",
+            "Technomancers"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 6
+          }
+        },
+        {
+          "name": "Riggers",
+          "headers": ["Free as a bird", "Being the machine"],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 7
+          }
+        },
+        {
+          "name": "Magic",
+          "headers": [
+            "Introduction",
+            "Magic basics",
+            "Traditions",
+            "Magical lodges",
+            "Percieving Magic",
+            "Sorcery",
+            "Spell characteristics",
+            "Ritual spellcasting",
+            "Rituals",
+            "Learning spells",
+            "Conjuring",
+            "Enchanting",
+            "Adepts",
+            "The astral world",
+            "Mana Barriers",
+            "Reagents",
+            "Foci",
+            "Mentor spirits",
+            "Initiation"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 8
+          }
+        },
+        {
+          "name": "Gamemaster Advice",
+          "headers": [
+            "Role of the Gamemaster",
+            "Pre-Game considerations",
+            "Designing a Run",
+            "Non-Player Characters",
+            "Campaigns",
+            "Security in the Sixth World",
+            "Identification",
+            "Drop-in Locations",
+            "Reputation",
+            "Lifestyles",
+            "Run rewards"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 9
+          }
+        },
+        {
+          "name": "Helps and Hindrances",
+          "headers": [
+            "Non-Player Characters",
+            "Critters",
+            "Toxins, Drugs and BTLs",
+            "Substance abuse and addictions"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 10
+          }
+        },
+        {
+          "name": "Street gear",
+          "headers": [
+            "Gear ratings",
+            "Buying gear",
+            "Fencing gear",
+            "(Il)Legality",
+            "Concealing Gear",
+            "Carrying Gear",
+            "Size Costs",
+            "Wireless functionality",
+            "Gear Listing",
+            "Electronics",
+            "Industrial Chemicals",
+            "Survival gear",
+            "Grapple Gun",
+            "Biotech",
+            "DocWagon Contract",
+            "Slap Patches",
+            "Augmentation",
+            "Magical Equipment",
+            "Vehicles and Drones"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 11
+          }
+        }
+      ]
+    },
+    {
+      "name": "Street Grimoire",
+      "id": "SG",
+      "source": "SG",
+      "group": "core",
+      "coverUrl": "img/covers/SG.webp",
+      "published": "2014-06-31",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction",
+          "headers": [
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "Run & Gun",
+      "id": "RG",
+      "source": "RG",
+      "group": "core",
+      "coverUrl": "img/covers/RG.webp",
+      "published": "2014-07-03",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction",
+          "headers": [
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP",
+            "WIP"
+          ],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "Run Faster",
+      "id": "RF",
+      "group": "core",
+      "source": "RF",
+      "coverUrl": "img/covers/RF.webp",
+      "published": "2014-12-19",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction"
+        },
+        {
+          "name": "Essentials of Magic",
+          "headers": [],
+          "ordinal": {
+            "type": "chapter",
+            "identifier": 1
+          }
+        }
+      ]
+    },
+    {
+      "name": "Data Trails",
+      "id": "DT",
+      "group": "core",
+      "source": "DT",
+      "coverUrl": "img/covers/DT.webp",
+      "published": "2016-05-27",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction"
+        }
+      ]
+    },
+    {
+      "name": "Chrome Flesh",
+      "id": "CR",
+      "group": "core",
+      "source": "CR",
+      "coverUrl": "img/covers/CR.webp",
+      "published": "2016-06-30",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction"
+        }
+      ]
+    },
+    {
+      "name": "Cutting Aces",
+      "id": "CA",
+      "group": "core",
+      "source": "CA",
+      "coverUrl": "img/covers/CA.webp",
+      "published": "2016-12-10",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction"
+        }
+      ]
+    },
+    {
+      "name": "Forbidden Arcana",
+      "id": "FA",
+      "group": "core",
+      "source": "FA",
+      "coverUrl": "img/covers/FA.webp",
+      "published": "2017-05-03",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction"
+        }
+      ]
+    },
+    {
+      "name": "Kill Code",
+      "id": "KC",
+      "group": "core",
+      "source": "KC",
+      "coverUrl": "img/covers/KC.webp",
+      "published": "2018-08-23",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction"
+        }
+      ]
+    },
+    {
+      "name": "Street Lethal",
+      "id": "SL",
+      "group": "core",
+      "source": "SL",
+      "coverUrl": "img/covers/SL.webp",
+      "published": "2018-08-23",
+      "author": "Catalyst Game Labs",
+      "contents": [
+        {
+          "name": "Cover"
+        },
+        {
+          "name": "Introduction"
+        }
+      ]
+    }
+  ]
+}
