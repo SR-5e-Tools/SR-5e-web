@@ -49,7 +49,10 @@
             "{@b breeder:} n. Ork slang for a 'normal' human.",
             "{@b buzz:} v. Go away. Buzz off.",
             "{@b etc:} etc"
-          ]
+          ],
+          "data": {
+            "quickref": 1
+          }
         }
       ]
     }
