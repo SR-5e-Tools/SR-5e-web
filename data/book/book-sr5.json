@@ -23,8 +23,8 @@
           "page": 6,
           "entries": [
             "{@i There are cracks in the world. They're slender, dark, and often cold, but they are the only things that keep you hidden. Keep you alive. They are the shadows of the world, and they are where you live.",
-            "{@i You are a shadowrunner, thriving in the margins, doing the jobs no one else can. You have no office, no permanent home, no background to check. You are whatever you make yourself. Will you seek justice? Sow seeds of chaos? Sell out to the highest bidder? It’s up to you, but this much is certain—if you do nothing, the streets will eat you alive.",
-            "{@i You can survive—even flourish—as long as you do what it takes. Sacrifice part of your soul for bleeding-edge gear. Push the limits of your will learning new and dangerous magic. Wire yourself into the Matrix, making your mind one with screaming streams of data. It’ll cost you something—everything does—but you can make it worth the price.",
+            "{@i You are a shadowrunner, thriving in the margins, doing the jobs no one else can. You have no office, no permanent home, no background to check. You are whatever you make yourself. Will you seek justice? Sow seeds of chaos? Sell out to the highest bidder? It's up to you, but this much is certain—if you do nothing, the streets will eat you alive.",
+            "{@i You can survive—even flourish—as long as you do what it takes. Sacrifice part of your soul for bleeding-edge gear. Push the limits of your will learning new and dangerous magic. Wire yourself into the Matrix, making your mind one with screaming streams of data. It'll cost you something—everything does—but you can make it worth the price.",
             "{@i SHADOWRUN, FIFTH EDITION is the newest version of one of the most popular and successful role-playing worlds of all time—a fusion of man, magic and machine in a dystopian near-future. With rules for character creation, magic, combat, Matrix hacking, rigging, and more, you have everything you need to face the challenges of the Sixth World.}"
           ]
         }
@@ -53,6 +53,387 @@
           "data": {
             "quickref": 1
           }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "page": 20,
+      "name": "Life in the Sixth World",
+      "entries": ["asd"]
+    },
+    {
+      "type": "section",
+      "page": 44,
+      "name": "Shadowrun Concepts",
+      "entries": ["Content 1234"]
+    },
+    {
+      "type": "section",
+      "page": 62,
+      "name": "Creating a Shadowrunner",
+      "entries": ["Content 1234"]
+    },
+    {
+      "type": "section",
+      "page": 128,
+      "name": "Skills",
+      "entries": [
+        "Information in the Sixth World comes cheaper than day-old soykaf. Ubiquitous Matrix access means every scrap of paydata about everyone and everything is only a data-jack away. So if you want to be good, you can't just know stuff—you have to do stuff. Turning information into action is what having a skill is all about. Shadowrun skills represent the broad application of information and techniques in a given subject. In Shadowrun, {@b skills} allow you to act in the Sixth World physically, socially, magically, technically, and so on. The way each character applies a skill can be as varied as clothing styles. Because skills are so broadly defined, players have the freedom to determine the specific learned behaviors and training their characters will accumulate over time. This type of narrow focus is known as a specialization ({@b Specializations}, p. 129).",
+        {
+          "type": "pf2-h2",
+          "page": 1,
+          "name": "Skill Types",
+          "entries": [
+            "Skills are the abilities that you learn over time. They're grouped into three broad categories: Active, Knowledge, and Language skills. The first category governs what you do, the second what you know, and the third how you communicate with the world. During character creation, you determine your character's initial skills in all three categories. After play begins, you can improve your skills or add more by spending the Karma you earn by shadowrunning (p. 376)",
+            "Skill ranks are independent of attributes, but they don't work alone. The most common dice pools that you roll when you take actions comprise one skill and one attribute. You can study until you know every aspect of Spellcasting, but if you don't have the raw Magic ability (as measured by your attribute) to apply it, you won't be as powerful as you could be. While a skill isn't always paired with a single attribute, each skill has a {@b linked attribute} to which the skill is most closely related. This doesn't mean you'll always roll a skill with its linked attribute, but you'll see the two together a lot. A list of linked attributes and their skills appears on p. 151."
+          ]
+        },
+        {
+          "type": "pf2-h3",
+          "page": 1,
+          "name": "Active Skills",
+          "entries": [
+            "Active skills are used to take action and affect the world. These range from combat skills used by runners to stay alive in the sprawl to the social skills used to make sure they get paid when the run is over. For a complete description of Active skills and specializations, see p. 130."
+          ]
+        },
+        {
+          "type": "pf2-h3",
+          "page": 1,
+          "name": "Knowledge Skills",
+          "entries": [
+            "Knowledge skills represent everything a character knows and understands about a given subject. Your character begins the game with free Knowledge skills points based on your character's Logic and Intuition attributes. Knowledge skills help define who your character is, but they also can be used to influence legwork and roleplay. The knowledge a character gains over the course of a life in the shadows often influences how valuable they are or how well known they are to people. There are four basic types of Knowledge skills in Shadowrun: Academic, Interests, Professional, and Street. Unless otherwise noted, Knowledge skills are linked to either Logic or Intuition. We'll cover Knowledge skills in more detail on p. 147."
+          ]
+        },
+        {
+          "type": "pf2-h3",
+          "page": 1,
+          "name": "Language Skills",
+          "entries": [
+            "Language skills represent the languages in which the characters can speak, read, and write. The higher a character's rating, the more fluent he is at these tasks. You can buy Language skills at the start of the game by using points from your Knowledge skill freebies. More information on Language skills can be found on p. 150"
+          ]
+        },
+        {
+          "type": "pf2-h3",
+          "page": 1,
+          "name": "Using Skills",
+          "entries": [
+            "Having skills means you can get things done. Unfortunately, nothing you'll do—fast talking past a bouncer, sleazing a NeoNET host, summoning a city spirit, just about anything—ever happens under perfect conditions. You'll need the right skill to resolve the problem. The gamemaster will let you know which skill fits the situation, along with any modifiers to your dice pool. Choosing skills and modifiers is an imperfect science, especially when your character knows how to do something you can't do. Null perspiration, chummer: These rules provide general guidelines on how skills and modifiers should be used."
+          ]
+        },
+        {
+          "type": "pf2-h2",
+          "page": 1,
+          "name": "Skill Groups",
+          "entries": [
+            "Skill groups are a collection of skills (usually three, but sometimes four) based around a core concept. For example, the Outdoors skill group brings together Navigation, Survival, and Tracking, all the sort of skills an outdoorsman would have. You can purchase a skill group for less than it costs to take the three skills individually. Having a skill group at a certain rating is the same as having the three skills in the skill group at that rating. For example, if you've got Outdoors 5 and you're trying to track a basilisk through the forests of the Salish-Shidhe Council, you'd roll as though you had Tracking 5 because it's part of the Outdoors skill group.",
+            "Skill group advancement uses special rules. If you want to advance one skill from the group without advancing the rest, the skill group is broken and and you get each of the skills in the group at the former group rating; then you can increase one of the skills. If you want to get the skill group back (or get a new one), you must first get all of the skills in the group to the same rating. For more detailed information, see Character Advancement, p. 103"
+          ]
+        },
+        {
+          "type": "pf2-sample-box",
+          "page": 1,
+          "name": "Example",
+          "entries": [
+            "Kevin wants his character to be good with guns. He can't decide on which type of gun is most important, so at character creation he buys the whole Firearms skill group at Rating 5. After a few sessions it is clear that Kevin's character, Mitrailleuse, is only using automatics. He saves up Karma to raise Mitrailleuse's Automatics Rating to 6 (which is cheaper than raising the entire skill group). To do this, he first breaks up his Firearms skill group, then buys the new level of Automatics. He now has Automatics 6, Longarms 5, and Pistols 5. If he wants the Firearms skill back he'll need to spend additional Karma to raise Longarms and Pistols to Rating 6 (which will cost him more than if he'd stuck with Firearms in the first place)."
+          ]
+        },
+        {
+          "type": "pf2-h2",
+          "page": 1,
+          "name": "Skill Ratings",
+          "entries": [
+            "The higher your skill rating, the better you are with that skill. Someone without the Pistols skill has watched enough trideo to understand that you point the weapon away from yourself and pull the trigger, but that doesn't make them as good as a character with even an introductory skill level who has a decent firing stance and knows enough to check the safety before firing.",
+            "The skill Rating is a numerical value ranging from 1, representing the most rudimentary skill, to 12 (or 13 with the Aptitude quality) representing the height of sentient achievement.",
+            "When you see them written, the skill rating comes immediately after the name of the skill. Rating 5 Hacking is written as “Hacking 5” on the character sheet and in other game materials. A skill's Rating adds to the number of dice you use to perform the action with the skill. The rules will call for the skill and an attribute to go along with it—just add the Ratings together and pick up that many dice. For example, hitting a Halloweener over the head with a metal pipe calls for Clubs + Agility—if your Agility is 3 and your Clubs skill is 4, you get 7 dice for the attack."
+          ]
+        },
+        {
+          "type": "pf2-h3",
+          "page": 1,
+          "name": "Specializations",
+          "entries": [
+            "If you devote extra time to a subset of a skill, it's called a {@b specialization}. If your character has the Gymnastics skill but spends a lot of time practicing parkour, you get a character that is good at Gymnastics but especially good at climbing past obstacles.",
+            "A specialization adds 2 dice to any test made for that skill when the specialization comes into play. You write the specialization in parentheses right after the skill, and then add a “(+2)” after the rating to remind you of the bonus. Characters can have multiple specializations within the same skill, but one applies at a time. For example, a character with the Blades skill who specializes in Axes and Parrying would only receive a +2 dice bonus to tests when parrying with an axe.",
+            "New characters may only take one specialization per skill at character creation ({@b Creating a Shadowrunner}, p. 62), but you can buy more later. If you want a specialization in a skill, you have to have it first (meaning a Rating of at least 1). Specializations are not allowed for skill groups."
+          ]
+        },
+        {
+          "type": "pf2-sidebar",
+          "page": 233,
+          "name": "Substituting Skills",
+          "entries": [
+            "You don't always have to default a skill when you don't have it. Sometimes your gamemaster might allow you to use a different skill, probably with a dice pool penalty. For example, if you're trying to use makeup to disguise your face, and you don't have a Disguise skill, the gamemaster could let you use your Artisan skill with (say) a -3 dice pool penalty."
+          ]
+        },
+        {
+          "type": "pf2-sample-box",
+          "page": 1,
+          "name": "Example",
+          "entries": [
+            "Petra decides to get the most use out of her cyberspur. She takes the Cyber Weapon specialization for her Unarmed Combat skill. This gives her Unarmed Combat (Cyber Weapons) 4 (+2). Now she gets to roll 6 dice plus her Attribute dice when the spur comes out."
+          ]
+        },
+        {
+          "type": "pf2-h3",
+          "page": 1,
+          "name": "Defaulting",
+          "entries": [
+            "It is impossible to prepare for every scenario and only slightly harder to have every skill. When you perform an action without actually having the skill for the test, there's still hope. You can default the skill, making the test using only the attribute to form the dice pool. You don't have any tremendous talent when you default quite the opposite in fact. Defaulting imposes a -1 dice pool modifier in addition to any other modifiers the situation demands. Unless the gamemaster feels that you're at a complete loss when defaulting, you can use Edge to Push the Limit (p. 56) and better your chances.",
+            "Some skills are too technically demanding for you to default. In these cases, you don't get to even try the test; you just fail. Pilot Ground Craft or Unarmed Combat, for example, are relatively simple skills that can be attempted without formal training, so you can default if you need to. Aeronautics Mechanic, on the other hand, is too complicated to try without some training (you could say it's rocket science). Skills that cannot be defaulted are given in italics on the Active Skill List (p. 151)—and it's also mentioned in the skill description."
+          ]
+        },
+        {
+          "type": "pf2-sample-box",
+          "page": 1,
+          "name": "Example",
+          "entries": [
+            "They never told Apagar people would still be in the building this late. Now some middling data research officer is asking the shadowrunner for pointers on how to keep the drek in his cubicle from walking away. Sure, the stolen uniform says Centurion Security, but damn if Apagar knows the first thing about talking to suits. The gamemaster asks for an Etiquette + Charisma test, which would come in handy if Apagar had any ranks in Etiquette. Sadly, he doesn't, so he only has a vague idea of how to respond in this situation. He has to default, fumbling through a response and relying on his Charisma attribute of 3. The -1 dice pool modifier leaves him with 2 dice to convince the corporate worker to move along and let him do his work. This may need to be settled with bullets."
+          ]
+        },
+        {
+          "type": "pf2-h3",
+          "page": 1,
+          "name": "Combat active skills",
+          "entries": [
+            "When the punching and the kicking and the shooting starts, these are the skills you use. All Combat skills are linked to Agility unless otherwise noted. For more on how skills are used in combat, refer to the Combat chapter, p. 158."
+          ]
+        },
+        {
+          "type": "pf2-brown-box",
+          "page": 1,
+          "name": "Meaning of the skill ratings",
+          "entries": [
+            "This is a list of what the skill Ratings mean, so that you can get beyond the numbers and see where your character falls in the general scheme of metahumanity.",
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "No Rating: Unaware",
+              "entries": [
+                "This is something other than having no ranks in a skill—this is a special level of ignorance. You haven't the first clue about this skill. This level can only be achieved through a quality (like the Incompetent negative quality, p. 81), or maybe a character history explaining the deficiency. You can't default the skill, and it never really occurs to you to even use it to solve your problems."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 1: Beginner",
+              "entries": [
+                "You have a little training about how it works, but not always why it works."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 2: Novice",
+              "entries": ["You're a hobbyist, but not an enthusiast."]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 3: Competent",
+              "entries": [
+                "You're skilled at basic operations but struggle with complex operations and 'tricks.'"
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 4: Proficient",
+              "entries": [
+                "You're comfortable with what you do and perform well under normal pressures. Professional level for most jobs."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 5: Skilled",
+              "entries": [
+                "You know how to handle yourself in unfamiliar situations, and can get creative when solving problems."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 6: Professional",
+              "entries": [
+                "You could easily sell your skills on the open market. This is the maximum skill level for starting player characters."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 7: Veteran",
+              "entries": [
+                "You've seen a lot of what the skill can do, and what it can't. Other people ask you how to do it."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 8: Expert",
+              "entries": [
+                "You are a highly sought-after talent. Corporations seek you out (or extract you from other corporations)."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 9: Exceptional",
+              "entries": [
+                "Your name is synonymous with the skill. If you have multiple skills at this level, you're lauded as exceptionally gifted."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 10: Elite",
+              "entries": [
+                "You are famous, even among the very best in your field."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 11: Legendary",
+              "entries": [
+                "You are a paragon to those trying to excel at your skill. Techniques are named after you."
+              ]
+            },
+            {
+              "type": "pf2-h3",
+              "page": 1,
+              "name": "Rating 12-13: Apex",
+              "entries": [
+                "You have reached the pinnacle of mortal achievement. This expertise represents the top 0.00001% of all practitioners in known history. The very highest rating, 13, can only be reached with the Aptitude quality (p. 72)."
+              ]
+            }
+          ]
+        },
+        "",
+        "{@note Here would be the skills, but I'm planning in including them on the skills table. WIP.}"
+      ]
+    },
+    {
+      "type": "section",
+      "page": 158,
+      "name": "Combat",
+      "entries": [
+        "In the world of Shadowrun, combat is an inevitability. At some point the talker will run out of words, the sneaker will get spotted, and the fight will be on. Shooting, stabbing, blowing things up, drive-bys, car chases, breaking things, and healing wounds will be covered in this chapter",
+        {
+          "type": "pf2-h2",
+          "page": 158,
+          "name": "The Basics",
+          "entries": [
+            "{@i Shadowrun} assumes we're all past the “I shot you!”—“You missed me!” arguments of childhood. Combat is governed by rules and procedures designed to keep the action clear and flowing. In Shadowrun everyone in the game quickly learns whether your axe-toting troll whacks the obnoxious elf ganger or if that elf is just too damn fast. We'll open up the Combat rules lessons with the basics: Who goes first? Where can I go? What can I do? Then we'll ground you in the general concepts you'll need to understand before we get into the more in-depth stuff."
+          ]
+        },
+        {
+          "type": "pf2-h3",
+          "page": 158,
+          "name": "Combat turn sequence",
+          "entries": [
+            "Things happen fast in combat. To keep those things straight, Shadowrun breaks each encounter into three-second chunks called {@b Combat Turns} (20 Combat Turns = 1 minute). Each Combat Turn follows a set sequence to resolve issues such as who acts first, who's faster on the draw, what happens when one character punches another, and so on. During the Combat Turn, players act in an order determined by their Initiative Score (see p. 159); each player describes their character's action, then rolls dice to see how well the character performs. The gamemaster describes the actions and reactions of the non-player characters, as well as the final outcome of all actions.",
+            "Combat Turns are broken up into a series of {@b Initiative Passes}, which are further broken down into {@b Action Phases} allowing player characters (PC) and non-player characters (NPC) to take actions sequentially during theCombat Turn. This allows combat to flow smoothly from character to character without clogging up on the actions of a single player. Things can happen quickly; one of the gamemaster's jobs is to keep players engaged and ready for their next Action Phase.",
+            "The Combat Turn plays out as follows:"
+          ]
+        },
+        {
+          "type": "pf2-h4",
+          "page": 1,
+          "name": "1. Roll Initiative",
+          "entries": [
+            "Determine Initiative Scores for all the characters, critters, spirits, sprites, intrusion countermeasures (IC), and anything else involved in the fight (see {@b Initiative}, p. 159). The order in which things happen during the Combat Turn is determined by Initiative Scores, going from highest first to lowest last. Initiative is fluid and changes both within a Combat Turn and between Combat Turns.",
+            "Note that wound modifiers affect the Initiative Score (see {@b Changing Initiative}, p. 160) as soon as the wound is inflicted."
+          ]
+        },
+        {
+          "type": "pf2-h4",
+          "page": 1,
+          "name": "2. Begin initiative pass",
+          "entries": [
+            "The character with the highest Initiative Score in the combat takes their Action Phase first. This character is the acting character.",
+            "If more than one character has the same {@b Initiative Score}, compare Attributes according to Initiative Score (p. 159) to determine who acts first. Alternatively, the gamemaster can simply determine that all actions occur simultaneously."
+          ]
+        },
+        {
+          "type": "pf2-h4",
+          "page": 1,
+          "name": "3. Begin Action phase",
+          "entries": [
+            "The acting character declares and takes his actions, according to the steps below.",
+            "If another character has delayed an action (see {@b Delaying Actions}, p. 161) and wants to act during this Action Phase, he must declare it here. That character chooses whether to act before, after, or at the same time as the current acting character.",
+            "{@b 3A. Declare actions}",
+            "The acting character declares his actions for the Action Phase. He may take two Simple Actions or one Complex Action during his Action Phase. Action types are further detailed in the Actions section (p. 163). Alternately, the character can choose to delay his action until a lower Initiative Score in that Combat Turn (see Delaying Actions, p. 161).",
+            "The character may also declare one Free Action during each Action Phase in the Combat Turn. Likewise, any character who has already acted in the Combat Turn prior to this Action Phase and still has his Free Action left may declare it at this point if he chooses.",
+            "{@b 3B. Resolve actions}",
+            "Resolve the actions of the acting character."
+          ]
+        },
+        {
+          "type": "pf2-h4",
+          "page": 1,
+          "name": "4. Declare and resolve actions of remaining characters",
+          "entries": [
+            "Once the character with the highest Initiative Score has acted, move on to the character with the next highest Initiative Score and repeat Step 3 until all characters have acted in the Initiative Pass. Once all characters have acted, subtract 10 from all characters' Initiative Scores and return to step 2 for all characters with an Initiative Score greater than 0.",
+            "If a character was wounded previously, wound modifiers may affect his Initiative Score on this and any subsequent Combat Turns.",
+            "Once all characters have an Initiative Score of 0 or less, move to Step 5."
+          ]
+        },
+        {
+          "type": "pf2-h4",
+          "page": 1,
+          "name": "5. Begin new combat turn",
+          "entries": [
+            "Begin a new Combat Turn, starting again at Step 1. Continue repeating Steps 1 through 4 until the combat ends."
+          ]
+        },
+        {
+          "type": "pf2-h3",
+          "page": 1,
+          "name": "Initiative",
+          "entries": [
+            "Initiative determines the order in which characters act, as well as how often they act during a single Combat Turn. Initiative is based on three factors: Initiative Attribute, Initiative Score, and Initiative Dice.",
+            {
+              "type": "pf2-h4",
+              "page": 1,
+              "name": "Initiative atribute",
+              "entries": [
+                "The Initiative Attribute is a derived attribute used to measure the speed, perceptiveness, and reaction rate of a combatant. See the Initiative Attribute Chart to determine Initiative attributes for different types of combatants (Physical, Astral, Matrix, or Rigging) and their Base Initiative Die."
+              ]
+            },
+            {
+              "type": "pf2-h4",
+              "page": 1,
+              "name": "Initiative score",
+              "entries": [
+                "To determine a character's Initiative Score, make an Initiative Test rolling the character's Initiative Dice and adding the total to your Initiative attribute—this total is your Initiative Score. Edge may be used on this test to roll the maximum of 5D6 for a single Combat Turn. The gamemaster records the score for each character, from highest to lowest. The character with the highest score goes first and the others follow in descending order during each Initiative Pass.",
+                "If there is a tied Initiative Score use ERIC (Edge, Reaction, Intuition, Coin toss) to break the tie, comparing Attributes in that order, with the character with the higher Attribute going first. If you're still tied after comparing all three tie-breaker Attributes, flip a coin. Alternately, at the gamemaster's discretion, both characters can act simultaneously."
+              ]
+            },
+            {
+              "type": "pf2-h4",
+              "page": 1,
+              "name": "Initiative passes",
+              "entries": [
+                "How many times a character can act during a Combat Turn is determined by the Initiative Test. Every character starts out with a base Initiative die of 1D6. Some characters may spend Edge or have magic or implants that increase their Initiative dice total, allowing them to roll more dice and potentially perform more actions than their non-enhanced associates.",
+                "The Combat Turn is divided into Initiative Passes. Everyone gets to act during the first Initiative Pass (in order according to their Initiative Score). At the end of each Initiative Pass the gamemaster subtracts 10 from all characters Initiative Score. Characters with an Initiative Score higher than 0 get to go again during a second Initiative Pass. This process is repeated until all characters have an Initiative Score of 0 or less, the Combat Turn ends, or the combat ends.",
+                "A character with an Initiative Score of 0 or less can only take one Free Action during an Initiative Pass. However, a character with 0 or less Initiative is allowed one Free Action. She can also respond to attacks by dodging or defending herself."
+              ]
+            },
+            {
+              "type": "pf2-h4",
+              "page": 1,
+              "name": "Changing initiative",
+              "entries": [
+                "In some cases, a character's Initiative Score or Base Initiative Dice may change in the middle of a Combat Turn. A player might gain Initiative by activating an augmentation, for example, or could receive a boost from a drug or spell or other enhancer. Conversely, a character who is wounded or whose vital equipment (weapon, augmentation, etc.) takes damage might lose Initiative.",
+                "If a character's Initiative attribute changes, immediately apply the difference as a positive or negative modifier to the character's Initiative Score. This new Initiative Score applies to all remaining actions in that Combat Turn. So a character with Initiative 8 and an Initiative Score of 11 who activates an implant that changes his Initiative to 10 (+2) immediately raises his Initiative Score to 13 (11 + 2).",
+                "If the number of Base Initiative Dice available to a character increases, that character immediately rolls the extra Initiative Dice and adds the sum to their current Initiative Score for that Combat Turn. So a magician with 1d6 Initiative dice who takes his first action to astrally project (2d6 Base Initiative Dice) gains the die (and the change in Initiative) for their Astral Initiative during that Combat Turn. (In this case, the magician would also replace their Reaction + Intuition for Physical Initiative with Intuition x2 for Astral Initiative.)",
+                "If the number of Initiative Dice available to a character decreases, then that character immediately rolls the number of lost dice and subtracts the total from their Initiative Score (along with any decrease to their Initiative Attribute).",
+                "Initiative also changes when a character or NPC is injured. Wound modifiers are applied directly to the character's Initiative attribute. These changes are made immediately after the injury occurs and can affect the initiative order even within the same Initiative Pass. These changes do not allow the character to act again; they simply change their Initiative score.",
+                "If a character enters combat after it has already begun, they should roll for their Initiative Score as normal and then subtract 10 for each Initiative Pass that has already occurred. This means they may get an Action Phase during the current Combat Turn or they may not, but at least they have a chance."
+              ]
+            }
+          ]
         }
       ]
     }
